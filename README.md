@@ -35,18 +35,6 @@
 
 
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
- 
-### 🌐️ Contact me
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/an678-mhg)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/an70008)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an4007)
-
-
 
 
 
