@@ -1,7 +1,6 @@
-### Hi there 👋
 
-**hooeiholigan/hooeiholigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://user-images.githubusercontent.com/91777779/232680394-20556257-124d-4030-92c0-dd79ebb1279d.mp4
 <h1 align="center">Hi , I'm Nguyen Minh Huy <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -38,6 +37,9 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
+
+
+
 
 
 
