@@ -1,6 +1,9 @@
 
 
-https://user-images.githubusercontent.com/91777779/232680394-20556257-124d-4030-92c0-dd79ebb1279d.mp4
+https://user-images.githubusercontent.com/91777779/232680591-89842dd8-abbf-4a3a-8b24-12437377b9b7.mp4
+
+
+
 <h1 align="center">Hi , I'm Nguyen Minh Huy <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
