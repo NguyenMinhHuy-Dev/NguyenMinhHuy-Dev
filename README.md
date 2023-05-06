@@ -32,7 +32,9 @@ https://user-images.githubusercontent.com/91777779/232680591-89842dd8-abbf-4a3a-
 ![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
-
+### Status
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hooeiholigan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooeiholigan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
