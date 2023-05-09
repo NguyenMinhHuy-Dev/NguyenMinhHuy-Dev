@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/91777779/232680591-89842dd8-abbf-4a3a-
 
 ### 🔥 Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=hooeiholigan&theme=neon)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hooeiholigan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooeiholigan&show_icons=true&theme=radical)
 
 
 
