@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/91777779/232680591-89842dd8-abbf-4a3a-
 <br>
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100015232036699" target="blank">
-    <img src="https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.15752-9/271896348_426607059206658_933077716356899652_n.png?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JUU2mrgvt28AX8p8ykf&_nc_oc=AQmISqpQ_9WhgQuGAQvobCRKNUG_GJKDcuKZSYHWpxg7EJxGW10V0DUmGc36NP0Ev2WFi39DqQGsieDtCUcD5foY&_nc_ht=scontent.fsgn5-6.fna&oh=03_AdTN25p79A2KWhgyp1P39At_YozTBYPlbz5XIwxfeSC5Uw&oe=6481F293" alt="facebook" />
+    <img src="https://icons8.com/icon/ohHaasydK6lx/facebook" alt="facebook" />
   </a>
   <a href="https://www.linkedin.com/in/nguyenminhhuy0212/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" style="width: 100px" alt="linkedin" />
