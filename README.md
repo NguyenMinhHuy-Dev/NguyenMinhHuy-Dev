@@ -37,6 +37,20 @@ https://user-images.githubusercontent.com/91777779/232680591-89842dd8-abbf-4a3a-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooeiholigan&show_icons=true&theme=radical)
 
 
+<h2 align="center">🌐📱 Contact <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>  
+<br>
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100015232036699" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/nguyenminhhuy0212/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a> 
+  <a href="mailto:nguyenminhhuy.0938745593@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+  </a>
+</div>
 
+<br>
 
 
