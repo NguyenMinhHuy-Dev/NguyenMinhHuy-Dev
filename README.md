@@ -4,10 +4,11 @@
 ![z4331737284884_ee15835d7f5ac1820588feb71a53bbd8](https://github.com/hooeiholigan/hooeiholigan/assets/91777779/d478d606-64dc-483c-9915-6389198dadbd)
 
 
-<!-- <h1 align="center">🌐📱     Hi , I'm Nguyen Minh Huy <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>     
+<!-- <h1 align="center">🌐📱     Hi , I'm Nguyen Minh Huy <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>      -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=800&size=25&pause=1000&color=8E44AD&background=FBFBFB&center=true&vCenter=true&width=700&lines=Frontend+Developer++%F0%9F%92%BB;Backend+Developer++%E2%9A%99%EF%B8%8F;Aim+to+become+a+software+engineer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB](https://readme-typing-svg.herokuapp.com/?font=Audiowide&weight=800&size=25&pause=1000&color=8E44AD&background=FBFBFB&center=true&vCenter=true&width=700&lines=Fullstack+Developer++%F0%9F%92%BB;%EF%B8%8F;Aim+to+become+a+software+engineer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)" alt="Typing SVG" /></a>
-</p> -->
+<!-- Hi! I'm Huy and my favorite quote is "Good girls are found in every corner of the earth, but unfortunately earth is round"
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=800&size=25&pause=1000&color=8E44AD&background=FBFBFB&center=true&vCenter=true&width=700&lines=Frontend+Developer++%F0%9F%92%BB;Backend+Developer++%E2%9A%99%EF%B8%8F;Aim+to+become+a+software+engineer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB](https://readme-typing-svg.herokuapp.com/?font=Audiowide&weight=800&size=25&pause=1000&color=8E44AD&background=FBFBFB&center=true&vCenter=true&width=700&lines=Fullstack+Developer++%F0%9F%92%BB;%EF%B8%8F;Aim+to+become+a+software+engineer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)" alt="Typing SVG" /></a> -->
+</p>
 
 ### 🛠 &nbsp; Languages
 
