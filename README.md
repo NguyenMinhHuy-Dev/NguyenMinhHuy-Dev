@@ -35,8 +35,8 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
 ### 🔥 Status
-[![GitHub Streak](https://streak-stats.demolab.com?user=hooeiholigan&theme=neon)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooeiholigan&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NguyenMinhHuy-Dev&theme=neon)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenMinhHuy-Dev&show_icons=true&theme=radical)
 
 
 <h2 align="center">🌐📱 Contact <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>  
