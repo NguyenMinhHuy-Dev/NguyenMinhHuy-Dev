@@ -60,7 +60,10 @@
 </div>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=NguyenMinhHuy-Dev&style=flat-square)
+<p align="center">
+  <a href="https://github.com/NguyenMinhHuy-Dev">
+    <img src="https://komarev.com/ghpvc/?username=NguyenMinhHuy-Dev&color=blue&style=flat)" />
+  </a>
+</p> 
     
 
