@@ -12,13 +12,13 @@
 
 ### 🛠 &nbsp; Languages
   
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/wervlad)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/wervlad)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/wervlad)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/wervlad)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/wervlad)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)&nbsp; 
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### 📚 &nbsp; Knowledge
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp; 
