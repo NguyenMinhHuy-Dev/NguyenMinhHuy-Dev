@@ -21,6 +21,8 @@
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### 📚 &nbsp; Knowledge
+
+<p align="center">
 ![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
@@ -36,6 +38,7 @@
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio)
 
+</p>
 ### 🔥 Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=NguyenMinhHuy-Dev&theme=neon)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenMinhHuy-Dev&show_icons=true&theme=radical)
@@ -64,6 +67,6 @@
     <img src="https://komarev.com/ghpvc/?username=NguyenMinhHuy-Dev
 &color=blue&style=flat)" />
   </a>
-</p>****
+</p>
 
 
