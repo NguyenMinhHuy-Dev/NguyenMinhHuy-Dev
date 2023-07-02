@@ -21,20 +21,20 @@
 ![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)
 
 ### 📚 &nbsp; Knowledge
-![HTML5](https://img.shields.io/badge/html5-black.svg?style=flat-square&logo=html5&nbsp; 
-![CSS3](https://img.shields.io/badge/css3-black.svg?style=flat-square&logo=css3)&nbsp;
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react)&nbsp; 
-![NodeJS](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)&nbsp; 
-![Firebase](https://img.shields.io/badge/firebase-black.svg?style=flat-square&logo=firebase)&nbsp; 
-![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=flat-square&logo=mongodb)&nbsp; 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server)&nbsp; 
-![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql)&nbsp; 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-black.svg?style=flat&logo=unity)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=flat-square&logo=html5); 
+![CSS3](https://img.shields.io/badge/css3-black.svg?style=flat-square&logo=css3);
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react); 
+![NodeJS](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js); 
+![Firebase](https://img.shields.io/badge/firebase-black.svg?style=flat-square&logo=firebase); 
+![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=flat-square&logo=mongodb); 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=microsoft%20sql%20server); 
+![MySQL](https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql); 
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git);
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github);  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code);
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio);
+![Unity](https://img.shields.io/badge/Unity-black.svg?style=flat&logo=unity);
+![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=android-studio);
 
 ### 🔥 Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=NguyenMinhHuy-Dev&theme=neon)](https://git.io/streak-stats)
