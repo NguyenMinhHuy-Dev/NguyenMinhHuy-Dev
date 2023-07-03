@@ -39,7 +39,7 @@
 
 ### 🔥 Status
 [![GitHub Streak](https://streak-stats.demolab.com?user=NguyenMinhHuy-Dev&theme=neon)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenMinhHuy-Dev&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenMinhHuy-Dev&show_icons=true&bg_color=000&theme=neon)
 
 
 <h2 align="center">🌐📱 Contact <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>  
