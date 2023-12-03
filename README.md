@@ -1,12 +1,10 @@
 
 
-![z4337358042794_00f040e427791af692fb31d0b06e26d2](https://github.com/hooeiholigan/hooeiholigan/assets/91777779/c9858780-99c3-4dd0-8298-d941097d9aa3)
+![Untitled](https://github.com/NguyenMinhHuy-Dev/NguyenMinhHuy-Dev/assets/91777779/132fd522-eabf-4b2d-96c1-f6b8bbe18a4c)
 
 <!-- <h1 align="center">🌐📱     Hi , I'm Nguyen Minh Huy <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>      -->
 <p align="center">
-  Hi! I'm Huy! <br>
-  and my favorite quote is <br>
-  'Make it work, make it right, make it fast' - Kent Beck<br>
+  'Make it work, make it right, make it fast'<br> Kent Beck
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Audiowide&weight=800&size=25&pause=1000&color=8E44AD&background=FBFBFB&center=true&vCenter=true&width=700&lines=Frontend+Developer++%F0%9F%92%BB;Backend+Developer++%E2%9A%99%EF%B8%8F;Aim+to+become+a+software+engineer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB](https://readme-typing-svg.herokuapp.com/?font=Audiowide&weight=800&size=25&pause=1000&color=8E44AD&background=FBFBFB&center=true&vCenter=true&width=700&lines=Fullstack+Developer++%F0%9F%92%BB;%EF%B8%8F;Aim+to+become+a+software+engineer++%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)" alt="Typing SVG" /></a> -->
 </p>
 
