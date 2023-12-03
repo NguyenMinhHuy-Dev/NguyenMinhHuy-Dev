@@ -49,7 +49,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/facebook-512.png" alt="facebook" />
   </a>
    <a href="https://www.instagram.com/02.minhuy/" target="blank">
-    <img src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.15752-9/344288000_1413791122717260_9199809206010471373_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=u3j_62KYr8wAX84iXf7&_nc_ht=scontent.fsgn2-6.fna&oh=03_AdQlGryvYTUy-OHDbZHouZxc7yjwiKw3KngcE0FdewshUg&oe=64ABBABA" alt="instagram" />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/instagram-256.png" alt="instagram" />
   </a>
   <a href="https://www.linkedin.com/in/nguyenminhhuy0212/" target="blank">
     <img src="https://scontent.fsgn2-9.fna.fbcdn.net/v/t1.15752-9/344435643_194328473441808_4357989769312800552_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=I9jtroCmL60AX_-Q-WB&_nc_ht=scontent.fsgn2-9.fna&oh=03_AdSq5sxmOlvw_EvNFnO7AfEb00srbtxao2aDga3XWb5s4g&oe=64ABC6E9" style="width: 100px" alt="linkedin" />
