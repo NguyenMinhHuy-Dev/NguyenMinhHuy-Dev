@@ -46,7 +46,7 @@
 <br>
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100015232036699" target="blank">
-    <img src="blob:https://www.facebook.com/aaa06eec-48f8-41ee-a662-397e458513d0" alt="facebook" /> 
+    <img src="https://res.cloudinary.com/dfruklnor/image/upload/v1701614936/fb_y37vrw.jpg" alt="facebook" /> 
 
   </a>
    <a href="https://www.instagram.com/02.minhuy/" target="blank">
