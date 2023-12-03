@@ -11,6 +11,7 @@
 </p>
 
 ### 🛠 &nbsp; Languages
+
   
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)&nbsp; 
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)&nbsp;
@@ -44,19 +45,20 @@
 
 <h2 align="center">🌐📱 Contact <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">     💻🎮</h1>  
 <br>
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100015232036699" target="blank">
-    <img src="https://res.cloudinary.com/dfruklnor/image/upload/v1701614936/fb_y37vrw.jpg" alt="facebook" /> 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px">
+  <a href="https://www.facebook.com/profile.php?id=100015232036699" target="blank" style=" margin-right: 10px;">
+    <img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Facebook-512.png" alt="facebook"  style="width: 100px;"/> 
 
   </a>
+  
    <a href="https://www.instagram.com/02.minhuy/" target="blank">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-icon-4/842/instagram-256.png" alt="instagram" />
+    <img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Instagram-512.png" style="width: 100px" alt="instagram" />
   </a>
   <a href="https://www.linkedin.com/in/nguyenminhhuy0212/" target="blank">
-    <img src="https://scontent.fsgn2-9.fna.fbcdn.net/v/t1.15752-9/344435643_194328473441808_4357989769312800552_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=I9jtroCmL60AX_-Q-WB&_nc_ht=scontent.fsgn2-9.fna&oh=03_AdSq5sxmOlvw_EvNFnO7AfEb00srbtxao2aDga3XWb5s4g&oe=64ABC6E9" style="width: 100px" alt="linkedin" />
+    <img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Linkedin-512.png" style="width: 100px" alt="linkedin" />
   </a> 
   <a href="mailto:nguyenminhhuy.0938745593@gmail.com" target="top">
-    <img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.15752-9/344217826_979852596790435_7441126467108907495_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=8804t_H4qosAX_zDzs2&_nc_ht=scontent.fsgn2-4.fna&oh=03_AdQRyTXnRfKUR1d38DA_RHpu3rNsthFjy4xjSeuCHkp0MA&oe=64ABBDBD" alt="email" />
+    <img src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Google-512.png"  style="width: 100px"  alt="email" />
   </a>
 </div>
 
